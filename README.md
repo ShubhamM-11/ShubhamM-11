@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamm-11&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamm-11" /> </p>
 
 - 🌱 Skilled in SQL, Python,
-Power BI, and machine learning algorithms. Committed to continuous learning and innovation in the field of data analytics.
+Power BI, and machine learning algorithms. Committed to continuous learning and innovation in the field of data analytic.
 
 - 📫 How to reach me **shubhammahindrakar11@gmail.com**
 
